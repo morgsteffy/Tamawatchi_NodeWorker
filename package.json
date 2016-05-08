@@ -1,0 +1,16 @@
+{
+  "name": "antelopeforest",
+  "version": "0.0.0",
+  "description": "Tamawatchi App",
+  "main": "test_push.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan Steffy",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^2.4.2",
+    "pushbots": "0.0.4",
+    "request": "^2.72.0"
+  }
+}
